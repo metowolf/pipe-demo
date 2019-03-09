@@ -1,0 +1,11 @@
+{
+  "name": "pipe-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/metowolf/pipe-demo.git",
+  "author": "metowolf <i@i-meto.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@heroku/socksv5": "^0.0.9"
+  }
+}
