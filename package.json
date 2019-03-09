@@ -6,6 +6,7 @@
   "author": "metowolf <i@i-meto.com>",
   "license": "MIT",
   "dependencies": {
-    "@heroku/socksv5": "^0.0.9"
+    "@heroku/socksv5": "^0.0.9",
+    "frap": "^1.1.0"
   }
 }
